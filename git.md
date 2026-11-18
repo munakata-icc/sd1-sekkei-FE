@@ -1,3 +1,5 @@
 # はじめてのGit
--git init
--git status
+- git init
+- git status
+- git add
+- git commit
